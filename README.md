@@ -10,3 +10,6 @@
 
 ## Dashboard
 ![alt text](https://github.com/bumianugrahhh/Kimia_Farma_Sales_Growth_Analysis/blob/main/Asset/Dashboard_Sales_Performance.png)
+
+
+Link dashboard looker studio [disini](https://lookerstudio.google.com/reporting/fdc36049-0cc0-4cc8-8742-66c2aa03a042)
