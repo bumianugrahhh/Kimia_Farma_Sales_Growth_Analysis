@@ -9,4 +9,4 @@
 - Looker Studio
 
 ## Dashboard
-(https://github.com/bumianugrahhh/Kimia_Farma_Sales_Growth_Analysis/blob/main/Asset/Dashboard_Sales_Performance.png)
+![alt text](https://github.com/bumianugrahhh/Kimia_Farma_Sales_Growth_Analysis/blob/main/Asset/Dashboard_Sales_Performance.png)
